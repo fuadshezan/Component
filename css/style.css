@@ -1,0 +1,11 @@
+.bad-custom{
+	background-color: red;
+
+}
+.btn-custom{
+	background-color: black;
+	
+}
+.btn-custom:hover{
+	background-color: orange;
+}
